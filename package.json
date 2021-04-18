@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "destinado a projetos e aulas dos curso JS TDD na Prática - Willian Justen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagocarvalhodemello/js-tdd-course.git"
+  },
+  "keywords": [],
+  "author": "Thiago Carvalho <thiagocarvalhodemello@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagocarvalhodemello/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/thiagocarvalhodemello/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
